@@ -4,7 +4,7 @@ TimeTalk An R package to perform cell-cell communication studies by utilizing te
 
 ### installation
 
-devtools::install("ChengLiLab/TimeTalk:master")
+devtools::install_github("ChengLiLab/TimeTalk",ref="master")
 
 ### cication
 
