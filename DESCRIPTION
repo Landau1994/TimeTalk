@@ -19,7 +19,7 @@ Imports:
     snow,
     future,
     future.apply
-License:  `use_gpl3_license()` 
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
