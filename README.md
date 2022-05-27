@@ -2,9 +2,8 @@
 
 TimeTalk An R package to perform cell-cell communication studies by utilizing temporal information, which is suitable for development biology research
 
-<p align="center">
-  <img width="400"  src="https://github.com/Landau1994/TimeTalk/blob/master/TimeTalk_workflow.png">
-</p>
+![workflow]("https://github.com/Landau1994/TimeTalk/blob/master/TimeTalk_workflow.png")
+
 
 ### installation
 
